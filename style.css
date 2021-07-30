@@ -1,3 +1,8 @@
+/* utilities design start */
 body{
     font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 64px;
+    height: 64px;
 }
