@@ -6,3 +6,7 @@ body{
     width: 64px;
     height: 64px;
 }
+.toolbar-profile-avatar img{
+    width:32px;
+    height: 32px;
+}
